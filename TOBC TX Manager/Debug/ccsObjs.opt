@@ -1,0 +1,1 @@
+"./core.obj" "./main.obj" "./hal/stopwatch.obj" "./hal/switches.obj" "./hal/watchdog.obj" "../lnk_msp430fr2311.cmd" -llibc.a 
